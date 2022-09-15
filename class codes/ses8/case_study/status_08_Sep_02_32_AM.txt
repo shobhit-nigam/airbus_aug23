@@ -1,0 +1,12 @@
+on Thu, 08 Sep at 02:32:AM
+total registrations with duplicates 1044
+total registrations without duplicates 1004
+total slots filled (with duplicates) : 
+test_slot_7    149
+test_slot_4    135
+test_slot_2    135
+test_slot_1    132
+test_slot_5    127
+test_slot_6    123
+test_slot_3    122
+test_slot_8    121
